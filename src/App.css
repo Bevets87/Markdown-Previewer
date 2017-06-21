@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One');
+.container {
+  width: 100%;
+}
+
+.title {
+  font-family: 'Bowlby One', cursive;
+  font-size: 65px;
+  color: rgb(255,224,102);
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 45px;
+  }
+}

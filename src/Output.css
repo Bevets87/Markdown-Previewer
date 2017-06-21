@@ -1,0 +1,13 @@
+.output-container {
+  background: rgb(218,233,244);
+  margin-top: 10px;
+  border-radius: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 60px;
+  text-shadow: 1px 1px 3px black;
+}
